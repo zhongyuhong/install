@@ -5,6 +5,9 @@ sudo apt-get upgrade
 sudo apt-get install
 
 sudo apt-get install python3-pip
+sudo apt-get install python3
+sudo apt-get install node.js
+sudo apt-get install npm
 sudo apt-get install git
 sudo apt-get install vim
 sudo apt-get install samba
