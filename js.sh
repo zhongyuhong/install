@@ -18,3 +18,8 @@ sudo npm install i2c
 
 
 sudo apt-get upgrade
+
+
+npm --version
+
+node -v
