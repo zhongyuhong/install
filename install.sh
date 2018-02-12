@@ -10,7 +10,7 @@ sudo apt-get install git
 sudo apt-get install vim
 sudo apt-get install samba
 sudo apt-get install samba-common-bin
-sudo apt-get install mosquitto mosquitto-clients
+#sudo apt-get install mosquitto mosquitto-clients
 sudo apt-get install ssh vim gcc g++ samba make less git
 
 sudo aptitude install openssh-server
