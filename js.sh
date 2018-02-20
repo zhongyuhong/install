@@ -19,10 +19,6 @@ sudo npm install gpio
 sudo npm install i2c
 sudo npm install -g onoff
 
-sudo apt-get install build-essential
-sudo npm install -g blynk-library
-sudo apt-get install build-essential
-
 sudo apt-get upgrade
 
 npm --version
